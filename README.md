@@ -1,9 +1,13 @@
 <h1 align = "center">Time Table Generator Project</h1>
-
+<br>
+<p align="center">
+<img src = "https://github.com/SpyzzVVarun/Time-table-Generator/blob/main/utils/tt_gen.png?raw=true">
+</p>
+<br>
 3rd Sem DSA course welcome project.
-
+<br><br>
 <b>Problem:</b> Everyone in the class is to design a TIME TABLE generator for "N" theory courses, "L" Lab Classes for the UG (all four years) and PG+PhD (first year only) students. Here "L < N". There are "P" faculty members, where "P = N/2".
-
+<br><br>
 <b>Rules for developing the TIME TABLE Generator:</b>
 * Every lecture is of ONE hour.
 * Lectures begin at 8.00AM and ends at 6.00PM from Monday to Friday.
