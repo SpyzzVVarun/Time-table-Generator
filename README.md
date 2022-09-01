@@ -9,12 +9,15 @@
 <b>Problem:</b> Everyone in the class is to design a TIME TABLE generator for "N" theory courses, "L" Lab Classes for the UG (all four years) and PG+PhD (first year only) students. Here "L < N". There are "P" faculty members, where "P = N/2".
 <br><br>
 <b>Rules for developing the TIME TABLE Generator:</b>
-* Every lecture is of ONE hour.
-* Lectures begin at 8.00AM and ends at 6.00PM from Monday to Friday.
-* 12.00PM to 2.00PM is the lunch time.
-* Each Lecture has 3 days per week and each Lab has 3 hours per week
-* Each lecture can happen only once a day
-* There can be 2 labs in a day
+<br><br>
+<ul>
+<li>Every lecture is of ONE hour.</li>
+<li>Lectures begin at 8.00AM and ends at 6.00PM from Monday to Friday.</li>
+<li>12.00PM to 2.00PM is the lunch time.</li>
+<li>Each Lecture has 3 days per week and each Lab has 3 hours per week.</li>
+<li>Each lecture can happen only once a day.</li>
+<li>There can be 2 labs in a day.</li>
+</ul>
 
 <h2 align = "center">Time Table Generator Project Input File details</h2>
 
