@@ -8,7 +8,7 @@ OBJECTS = \
 
 all: $(OBJECTS) compile touch 
 
-main.o : main.c
+main.o : main.cpp
 					 $(C) $(FLAGS) -c main.cpp
 
 clean:  
